@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\01Lab\08TriangleNums\bin\Debug\net6.0\08TriangleNums.exe
+C:\Users\PR1ME\source\repos\01Lab\08TriangleNums\bin\Debug\net6.0\08TriangleNums.deps.json
+C:\Users\PR1ME\source\repos\01Lab\08TriangleNums\bin\Debug\net6.0\08TriangleNums.runtimeconfig.json
+C:\Users\PR1ME\source\repos\01Lab\08TriangleNums\bin\Debug\net6.0\08TriangleNums.dll
+C:\Users\PR1ME\source\repos\01Lab\08TriangleNums\bin\Debug\net6.0\08TriangleNums.pdb
+C:\Users\PR1ME\source\repos\01Lab\08TriangleNums\obj\Debug\net6.0\08TriangleNums.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\01Lab\08TriangleNums\obj\Debug\net6.0\08TriangleNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\01Lab\08TriangleNums\obj\Debug\net6.0\08TriangleNums.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\01Lab\08TriangleNums\obj\Debug\net6.0\08TriangleNums.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\01Lab\08TriangleNums\obj\Debug\net6.0\08TriangleNums.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\01Lab\08TriangleNums\obj\Debug\net6.0\08TriangleNums.dll
+C:\Users\PR1ME\source\repos\01Lab\08TriangleNums\obj\Debug\net6.0\refint\08TriangleNums.dll
+C:\Users\PR1ME\source\repos\01Lab\08TriangleNums\obj\Debug\net6.0\08TriangleNums.pdb
+C:\Users\PR1ME\source\repos\01Lab\08TriangleNums\obj\Debug\net6.0\08TriangleNums.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\01Lab\08TriangleNums\obj\Debug\net6.0\ref\08TriangleNums.dll

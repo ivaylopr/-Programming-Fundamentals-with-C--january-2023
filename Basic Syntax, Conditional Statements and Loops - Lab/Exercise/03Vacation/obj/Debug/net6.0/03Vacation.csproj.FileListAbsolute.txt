@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\01Lab\03Vacation\bin\Debug\net6.0\03Vacation.exe
+C:\Users\PR1ME\source\repos\01Lab\03Vacation\bin\Debug\net6.0\03Vacation.deps.json
+C:\Users\PR1ME\source\repos\01Lab\03Vacation\bin\Debug\net6.0\03Vacation.runtimeconfig.json
+C:\Users\PR1ME\source\repos\01Lab\03Vacation\bin\Debug\net6.0\03Vacation.dll
+C:\Users\PR1ME\source\repos\01Lab\03Vacation\bin\Debug\net6.0\03Vacation.pdb
+C:\Users\PR1ME\source\repos\01Lab\03Vacation\obj\Debug\net6.0\03Vacation.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\01Lab\03Vacation\obj\Debug\net6.0\03Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\01Lab\03Vacation\obj\Debug\net6.0\03Vacation.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\01Lab\03Vacation\obj\Debug\net6.0\03Vacation.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\01Lab\03Vacation\obj\Debug\net6.0\03Vacation.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\01Lab\03Vacation\obj\Debug\net6.0\03Vacation.dll
+C:\Users\PR1ME\source\repos\01Lab\03Vacation\obj\Debug\net6.0\refint\03Vacation.dll
+C:\Users\PR1ME\source\repos\01Lab\03Vacation\obj\Debug\net6.0\03Vacation.pdb
+C:\Users\PR1ME\source\repos\01Lab\03Vacation\obj\Debug\net6.0\03Vacation.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\01Lab\03Vacation\obj\Debug\net6.0\ref\03Vacation.dll

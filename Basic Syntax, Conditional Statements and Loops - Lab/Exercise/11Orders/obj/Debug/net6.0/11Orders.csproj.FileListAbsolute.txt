@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\01Lab\11Orders\bin\Debug\net6.0\11Orders.exe
+C:\Users\PR1ME\source\repos\01Lab\11Orders\bin\Debug\net6.0\11Orders.deps.json
+C:\Users\PR1ME\source\repos\01Lab\11Orders\bin\Debug\net6.0\11Orders.runtimeconfig.json
+C:\Users\PR1ME\source\repos\01Lab\11Orders\bin\Debug\net6.0\11Orders.dll
+C:\Users\PR1ME\source\repos\01Lab\11Orders\bin\Debug\net6.0\11Orders.pdb
+C:\Users\PR1ME\source\repos\01Lab\11Orders\obj\Debug\net6.0\11Orders.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\01Lab\11Orders\obj\Debug\net6.0\11Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\01Lab\11Orders\obj\Debug\net6.0\11Orders.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\01Lab\11Orders\obj\Debug\net6.0\11Orders.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\01Lab\11Orders\obj\Debug\net6.0\11Orders.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\01Lab\11Orders\obj\Debug\net6.0\11Orders.dll
+C:\Users\PR1ME\source\repos\01Lab\11Orders\obj\Debug\net6.0\refint\11Orders.dll
+C:\Users\PR1ME\source\repos\01Lab\11Orders\obj\Debug\net6.0\11Orders.pdb
+C:\Users\PR1ME\source\repos\01Lab\11Orders\obj\Debug\net6.0\11Orders.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\01Lab\11Orders\obj\Debug\net6.0\ref\11Orders.dll

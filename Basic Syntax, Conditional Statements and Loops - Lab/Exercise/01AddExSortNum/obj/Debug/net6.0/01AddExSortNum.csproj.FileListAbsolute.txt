@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\01Lab\01AddExSortNum\bin\Debug\net6.0\01AddExSortNum.exe
+C:\Users\PR1ME\source\repos\01Lab\01AddExSortNum\bin\Debug\net6.0\01AddExSortNum.deps.json
+C:\Users\PR1ME\source\repos\01Lab\01AddExSortNum\bin\Debug\net6.0\01AddExSortNum.runtimeconfig.json
+C:\Users\PR1ME\source\repos\01Lab\01AddExSortNum\bin\Debug\net6.0\01AddExSortNum.dll
+C:\Users\PR1ME\source\repos\01Lab\01AddExSortNum\bin\Debug\net6.0\01AddExSortNum.pdb
+C:\Users\PR1ME\source\repos\01Lab\01AddExSortNum\obj\Debug\net6.0\01AddExSortNum.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\01Lab\01AddExSortNum\obj\Debug\net6.0\01AddExSortNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\01Lab\01AddExSortNum\obj\Debug\net6.0\01AddExSortNum.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\01Lab\01AddExSortNum\obj\Debug\net6.0\01AddExSortNum.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\01Lab\01AddExSortNum\obj\Debug\net6.0\01AddExSortNum.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\01Lab\01AddExSortNum\obj\Debug\net6.0\01AddExSortNum.dll
+C:\Users\PR1ME\source\repos\01Lab\01AddExSortNum\obj\Debug\net6.0\refint\01AddExSortNum.dll
+C:\Users\PR1ME\source\repos\01Lab\01AddExSortNum\obj\Debug\net6.0\01AddExSortNum.pdb
+C:\Users\PR1ME\source\repos\01Lab\01AddExSortNum\obj\Debug\net6.0\01AddExSortNum.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\01Lab\01AddExSortNum\obj\Debug\net6.0\ref\01AddExSortNum.dll

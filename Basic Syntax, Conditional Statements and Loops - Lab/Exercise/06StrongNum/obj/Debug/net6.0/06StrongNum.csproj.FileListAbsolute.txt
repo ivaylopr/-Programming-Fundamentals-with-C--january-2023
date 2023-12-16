@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\01Lab\06StrongNum\bin\Debug\net6.0\06StrongNum.exe
+C:\Users\PR1ME\source\repos\01Lab\06StrongNum\bin\Debug\net6.0\06StrongNum.deps.json
+C:\Users\PR1ME\source\repos\01Lab\06StrongNum\bin\Debug\net6.0\06StrongNum.runtimeconfig.json
+C:\Users\PR1ME\source\repos\01Lab\06StrongNum\bin\Debug\net6.0\06StrongNum.dll
+C:\Users\PR1ME\source\repos\01Lab\06StrongNum\bin\Debug\net6.0\06StrongNum.pdb
+C:\Users\PR1ME\source\repos\01Lab\06StrongNum\obj\Debug\net6.0\06StrongNum.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\01Lab\06StrongNum\obj\Debug\net6.0\06StrongNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\01Lab\06StrongNum\obj\Debug\net6.0\06StrongNum.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\01Lab\06StrongNum\obj\Debug\net6.0\06StrongNum.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\01Lab\06StrongNum\obj\Debug\net6.0\06StrongNum.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\01Lab\06StrongNum\obj\Debug\net6.0\06StrongNum.dll
+C:\Users\PR1ME\source\repos\01Lab\06StrongNum\obj\Debug\net6.0\refint\06StrongNum.dll
+C:\Users\PR1ME\source\repos\01Lab\06StrongNum\obj\Debug\net6.0\06StrongNum.pdb
+C:\Users\PR1ME\source\repos\01Lab\06StrongNum\obj\Debug\net6.0\06StrongNum.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\01Lab\06StrongNum\obj\Debug\net6.0\ref\06StrongNum.dll

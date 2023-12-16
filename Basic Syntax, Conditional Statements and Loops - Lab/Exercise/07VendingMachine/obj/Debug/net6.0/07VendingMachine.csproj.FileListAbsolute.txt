@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\01Lab\07VendingMachine\obj\Debug\net6.0\07VendingMachine.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\01Lab\07VendingMachine\obj\Debug\net6.0\07VendingMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\01Lab\07VendingMachine\obj\Debug\net6.0\07VendingMachine.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\01Lab\07VendingMachine\obj\Debug\net6.0\07VendingMachine.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\01Lab\07VendingMachine\obj\Debug\net6.0\07VendingMachine.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\01Lab\07VendingMachine\bin\Debug\net6.0\07VendingMachine.exe
+C:\Users\PR1ME\source\repos\01Lab\07VendingMachine\bin\Debug\net6.0\07VendingMachine.deps.json
+C:\Users\PR1ME\source\repos\01Lab\07VendingMachine\bin\Debug\net6.0\07VendingMachine.runtimeconfig.json
+C:\Users\PR1ME\source\repos\01Lab\07VendingMachine\bin\Debug\net6.0\07VendingMachine.dll
+C:\Users\PR1ME\source\repos\01Lab\07VendingMachine\bin\Debug\net6.0\07VendingMachine.pdb
+C:\Users\PR1ME\source\repos\01Lab\07VendingMachine\obj\Debug\net6.0\07VendingMachine.dll
+C:\Users\PR1ME\source\repos\01Lab\07VendingMachine\obj\Debug\net6.0\refint\07VendingMachine.dll
+C:\Users\PR1ME\source\repos\01Lab\07VendingMachine\obj\Debug\net6.0\07VendingMachine.pdb
+C:\Users\PR1ME\source\repos\01Lab\07VendingMachine\obj\Debug\net6.0\07VendingMachine.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\01Lab\07VendingMachine\obj\Debug\net6.0\ref\07VendingMachine.dll
