@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\AsociateArrays\bin\Debug\net6.0\CountRealN.exe
+C:\Users\PR1ME\source\repos\AsociateArrays\bin\Debug\net6.0\CountRealN.deps.json
+C:\Users\PR1ME\source\repos\AsociateArrays\bin\Debug\net6.0\CountRealN.runtimeconfig.json
+C:\Users\PR1ME\source\repos\AsociateArrays\bin\Debug\net6.0\CountRealN.dll
+C:\Users\PR1ME\source\repos\AsociateArrays\bin\Debug\net6.0\CountRealN.pdb
+C:\Users\PR1ME\source\repos\AsociateArrays\obj\Debug\net6.0\CountRealN.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\AsociateArrays\obj\Debug\net6.0\CountRealN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\AsociateArrays\obj\Debug\net6.0\CountRealN.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\AsociateArrays\obj\Debug\net6.0\CountRealN.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\AsociateArrays\obj\Debug\net6.0\CountRealN.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\AsociateArrays\obj\Debug\net6.0\CountRealN.dll
+C:\Users\PR1ME\source\repos\AsociateArrays\obj\Debug\net6.0\refint\CountRealN.dll
+C:\Users\PR1ME\source\repos\AsociateArrays\obj\Debug\net6.0\CountRealN.pdb
+C:\Users\PR1ME\source\repos\AsociateArrays\obj\Debug\net6.0\CountRealN.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\AsociateArrays\obj\Debug\net6.0\ref\CountRealN.dll
