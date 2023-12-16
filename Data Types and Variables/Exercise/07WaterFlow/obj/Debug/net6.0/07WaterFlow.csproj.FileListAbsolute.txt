@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\03DataTypesEx\07WaterFlow\bin\Debug\net6.0\07WaterFlow.exe
+C:\Users\PR1ME\source\repos\03DataTypesEx\07WaterFlow\bin\Debug\net6.0\07WaterFlow.deps.json
+C:\Users\PR1ME\source\repos\03DataTypesEx\07WaterFlow\bin\Debug\net6.0\07WaterFlow.runtimeconfig.json
+C:\Users\PR1ME\source\repos\03DataTypesEx\07WaterFlow\bin\Debug\net6.0\07WaterFlow.dll
+C:\Users\PR1ME\source\repos\03DataTypesEx\07WaterFlow\bin\Debug\net6.0\07WaterFlow.pdb
+C:\Users\PR1ME\source\repos\03DataTypesEx\07WaterFlow\obj\Debug\net6.0\07WaterFlow.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\07WaterFlow\obj\Debug\net6.0\07WaterFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\03DataTypesEx\07WaterFlow\obj\Debug\net6.0\07WaterFlow.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\07WaterFlow\obj\Debug\net6.0\07WaterFlow.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\03DataTypesEx\07WaterFlow\obj\Debug\net6.0\07WaterFlow.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\07WaterFlow\obj\Debug\net6.0\07WaterFlow.dll
+C:\Users\PR1ME\source\repos\03DataTypesEx\07WaterFlow\obj\Debug\net6.0\refint\07WaterFlow.dll
+C:\Users\PR1ME\source\repos\03DataTypesEx\07WaterFlow\obj\Debug\net6.0\07WaterFlow.pdb
+C:\Users\PR1ME\source\repos\03DataTypesEx\07WaterFlow\obj\Debug\net6.0\07WaterFlow.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\07WaterFlow\obj\Debug\net6.0\ref\07WaterFlow.dll

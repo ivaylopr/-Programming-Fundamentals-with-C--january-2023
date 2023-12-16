@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\03DataTypesEx\02MoreEx CompereNums\bin\Debug\net6.0\02MoreEx CompereNums.exe
+C:\Users\PR1ME\source\repos\03DataTypesEx\02MoreEx CompereNums\bin\Debug\net6.0\02MoreEx CompereNums.deps.json
+C:\Users\PR1ME\source\repos\03DataTypesEx\02MoreEx CompereNums\bin\Debug\net6.0\02MoreEx CompereNums.runtimeconfig.json
+C:\Users\PR1ME\source\repos\03DataTypesEx\02MoreEx CompereNums\bin\Debug\net6.0\02MoreEx CompereNums.dll
+C:\Users\PR1ME\source\repos\03DataTypesEx\02MoreEx CompereNums\bin\Debug\net6.0\02MoreEx CompereNums.pdb
+C:\Users\PR1ME\source\repos\03DataTypesEx\02MoreEx CompereNums\obj\Debug\net6.0\02MoreEx CompereNums.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\02MoreEx CompereNums\obj\Debug\net6.0\02MoreEx CompereNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\03DataTypesEx\02MoreEx CompereNums\obj\Debug\net6.0\02MoreEx CompereNums.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\02MoreEx CompereNums\obj\Debug\net6.0\02MoreEx CompereNums.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\03DataTypesEx\02MoreEx CompereNums\obj\Debug\net6.0\02MoreEx CompereNums.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\02MoreEx CompereNums\obj\Debug\net6.0\02MoreEx CompereNums.dll
+C:\Users\PR1ME\source\repos\03DataTypesEx\02MoreEx CompereNums\obj\Debug\net6.0\refint\02MoreEx CompereNums.dll
+C:\Users\PR1ME\source\repos\03DataTypesEx\02MoreEx CompereNums\obj\Debug\net6.0\02MoreEx CompereNums.pdb
+C:\Users\PR1ME\source\repos\03DataTypesEx\02MoreEx CompereNums\obj\Debug\net6.0\02MoreEx CompereNums.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\02MoreEx CompereNums\obj\Debug\net6.0\ref\02MoreEx CompereNums.dll

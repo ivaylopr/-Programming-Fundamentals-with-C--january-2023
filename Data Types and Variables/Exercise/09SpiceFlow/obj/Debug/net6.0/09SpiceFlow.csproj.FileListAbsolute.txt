@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\03DataTypesEx\09SpiceFlow\bin\Debug\net6.0\09SpiceFlow.exe
+C:\Users\PR1ME\source\repos\03DataTypesEx\09SpiceFlow\bin\Debug\net6.0\09SpiceFlow.deps.json
+C:\Users\PR1ME\source\repos\03DataTypesEx\09SpiceFlow\bin\Debug\net6.0\09SpiceFlow.runtimeconfig.json
+C:\Users\PR1ME\source\repos\03DataTypesEx\09SpiceFlow\bin\Debug\net6.0\09SpiceFlow.dll
+C:\Users\PR1ME\source\repos\03DataTypesEx\09SpiceFlow\bin\Debug\net6.0\09SpiceFlow.pdb
+C:\Users\PR1ME\source\repos\03DataTypesEx\09SpiceFlow\obj\Debug\net6.0\09SpiceFlow.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\09SpiceFlow\obj\Debug\net6.0\09SpiceFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\03DataTypesEx\09SpiceFlow\obj\Debug\net6.0\09SpiceFlow.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\09SpiceFlow\obj\Debug\net6.0\09SpiceFlow.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\03DataTypesEx\09SpiceFlow\obj\Debug\net6.0\09SpiceFlow.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\09SpiceFlow\obj\Debug\net6.0\09SpiceFlow.dll
+C:\Users\PR1ME\source\repos\03DataTypesEx\09SpiceFlow\obj\Debug\net6.0\refint\09SpiceFlow.dll
+C:\Users\PR1ME\source\repos\03DataTypesEx\09SpiceFlow\obj\Debug\net6.0\09SpiceFlow.pdb
+C:\Users\PR1ME\source\repos\03DataTypesEx\09SpiceFlow\obj\Debug\net6.0\09SpiceFlow.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\09SpiceFlow\obj\Debug\net6.0\ref\09SpiceFlow.dll

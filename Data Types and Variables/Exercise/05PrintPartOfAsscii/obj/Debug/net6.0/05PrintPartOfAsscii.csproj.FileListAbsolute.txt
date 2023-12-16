@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\03DataTypesEx\05PrintPartOfAsscii\obj\Debug\net6.0\05PrintPartOfAsscii.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\05PrintPartOfAsscii\obj\Debug\net6.0\05PrintPartOfAsscii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\03DataTypesEx\05PrintPartOfAsscii\obj\Debug\net6.0\05PrintPartOfAsscii.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\05PrintPartOfAsscii\obj\Debug\net6.0\05PrintPartOfAsscii.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\03DataTypesEx\05PrintPartOfAsscii\obj\Debug\net6.0\05PrintPartOfAsscii.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\05PrintPartOfAsscii\bin\Debug\net6.0\05PrintPartOfAsscii.exe
+C:\Users\PR1ME\source\repos\03DataTypesEx\05PrintPartOfAsscii\bin\Debug\net6.0\05PrintPartOfAsscii.deps.json
+C:\Users\PR1ME\source\repos\03DataTypesEx\05PrintPartOfAsscii\bin\Debug\net6.0\05PrintPartOfAsscii.runtimeconfig.json
+C:\Users\PR1ME\source\repos\03DataTypesEx\05PrintPartOfAsscii\bin\Debug\net6.0\05PrintPartOfAsscii.dll
+C:\Users\PR1ME\source\repos\03DataTypesEx\05PrintPartOfAsscii\bin\Debug\net6.0\05PrintPartOfAsscii.pdb
+C:\Users\PR1ME\source\repos\03DataTypesEx\05PrintPartOfAsscii\obj\Debug\net6.0\05PrintPartOfAsscii.dll
+C:\Users\PR1ME\source\repos\03DataTypesEx\05PrintPartOfAsscii\obj\Debug\net6.0\refint\05PrintPartOfAsscii.dll
+C:\Users\PR1ME\source\repos\03DataTypesEx\05PrintPartOfAsscii\obj\Debug\net6.0\05PrintPartOfAsscii.pdb
+C:\Users\PR1ME\source\repos\03DataTypesEx\05PrintPartOfAsscii\obj\Debug\net6.0\05PrintPartOfAsscii.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\05PrintPartOfAsscii\obj\Debug\net6.0\ref\05PrintPartOfAsscii.dll

@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\03DataTypesEx\01MoreEx FindAtype\obj\Debug\net6.0\01MoreEx FindAtype.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\01MoreEx FindAtype\obj\Debug\net6.0\01MoreEx FindAtype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\03DataTypesEx\01MoreEx FindAtype\obj\Debug\net6.0\01MoreEx FindAtype.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\01MoreEx FindAtype\obj\Debug\net6.0\01MoreEx FindAtype.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\03DataTypesEx\01MoreEx FindAtype\obj\Debug\net6.0\01MoreEx FindAtype.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\01MoreEx FindAtype\bin\Debug\net6.0\01MoreEx FindAtype.exe
+C:\Users\PR1ME\source\repos\03DataTypesEx\01MoreEx FindAtype\bin\Debug\net6.0\01MoreEx FindAtype.deps.json
+C:\Users\PR1ME\source\repos\03DataTypesEx\01MoreEx FindAtype\bin\Debug\net6.0\01MoreEx FindAtype.runtimeconfig.json
+C:\Users\PR1ME\source\repos\03DataTypesEx\01MoreEx FindAtype\bin\Debug\net6.0\01MoreEx FindAtype.dll
+C:\Users\PR1ME\source\repos\03DataTypesEx\01MoreEx FindAtype\bin\Debug\net6.0\01MoreEx FindAtype.pdb
+C:\Users\PR1ME\source\repos\03DataTypesEx\01MoreEx FindAtype\obj\Debug\net6.0\01MoreEx FindAtype.dll
+C:\Users\PR1ME\source\repos\03DataTypesEx\01MoreEx FindAtype\obj\Debug\net6.0\refint\01MoreEx FindAtype.dll
+C:\Users\PR1ME\source\repos\03DataTypesEx\01MoreEx FindAtype\obj\Debug\net6.0\01MoreEx FindAtype.pdb
+C:\Users\PR1ME\source\repos\03DataTypesEx\01MoreEx FindAtype\obj\Debug\net6.0\01MoreEx FindAtype.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\01MoreEx FindAtype\obj\Debug\net6.0\ref\01MoreEx FindAtype.dll

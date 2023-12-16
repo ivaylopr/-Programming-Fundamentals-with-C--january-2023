@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\03DataTypesEx\ConsoleApp2\bin\Debug\net6.0\01IntegerOperations.exe
+C:\Users\PR1ME\source\repos\03DataTypesEx\ConsoleApp2\bin\Debug\net6.0\01IntegerOperations.deps.json
+C:\Users\PR1ME\source\repos\03DataTypesEx\ConsoleApp2\bin\Debug\net6.0\01IntegerOperations.runtimeconfig.json
+C:\Users\PR1ME\source\repos\03DataTypesEx\ConsoleApp2\bin\Debug\net6.0\01IntegerOperations.dll
+C:\Users\PR1ME\source\repos\03DataTypesEx\ConsoleApp2\bin\Debug\net6.0\01IntegerOperations.pdb
+C:\Users\PR1ME\source\repos\03DataTypesEx\ConsoleApp2\obj\Debug\net6.0\01IntegerOperations.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\ConsoleApp2\obj\Debug\net6.0\01IntegerOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\03DataTypesEx\ConsoleApp2\obj\Debug\net6.0\01IntegerOperations.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\ConsoleApp2\obj\Debug\net6.0\01IntegerOperations.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\03DataTypesEx\ConsoleApp2\obj\Debug\net6.0\01IntegerOperations.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\ConsoleApp2\obj\Debug\net6.0\01IntegerOperations.dll
+C:\Users\PR1ME\source\repos\03DataTypesEx\ConsoleApp2\obj\Debug\net6.0\refint\01IntegerOperations.dll
+C:\Users\PR1ME\source\repos\03DataTypesEx\ConsoleApp2\obj\Debug\net6.0\01IntegerOperations.pdb
+C:\Users\PR1ME\source\repos\03DataTypesEx\ConsoleApp2\obj\Debug\net6.0\01IntegerOperations.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\ConsoleApp2\obj\Debug\net6.0\ref\01IntegerOperations.dll

@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\03DataTypesEx\02SumOfDigits\bin\Debug\net6.0\02SumOfDigits.exe
+C:\Users\PR1ME\source\repos\03DataTypesEx\02SumOfDigits\bin\Debug\net6.0\02SumOfDigits.deps.json
+C:\Users\PR1ME\source\repos\03DataTypesEx\02SumOfDigits\bin\Debug\net6.0\02SumOfDigits.runtimeconfig.json
+C:\Users\PR1ME\source\repos\03DataTypesEx\02SumOfDigits\bin\Debug\net6.0\02SumOfDigits.dll
+C:\Users\PR1ME\source\repos\03DataTypesEx\02SumOfDigits\bin\Debug\net6.0\02SumOfDigits.pdb
+C:\Users\PR1ME\source\repos\03DataTypesEx\02SumOfDigits\obj\Debug\net6.0\02SumOfDigits.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\02SumOfDigits\obj\Debug\net6.0\02SumOfDigits.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\03DataTypesEx\02SumOfDigits\obj\Debug\net6.0\02SumOfDigits.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\02SumOfDigits\obj\Debug\net6.0\02SumOfDigits.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\03DataTypesEx\02SumOfDigits\obj\Debug\net6.0\02SumOfDigits.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\02SumOfDigits\obj\Debug\net6.0\02SumOfDigits.dll
+C:\Users\PR1ME\source\repos\03DataTypesEx\02SumOfDigits\obj\Debug\net6.0\refint\02SumOfDigits.dll
+C:\Users\PR1ME\source\repos\03DataTypesEx\02SumOfDigits\obj\Debug\net6.0\02SumOfDigits.pdb
+C:\Users\PR1ME\source\repos\03DataTypesEx\02SumOfDigits\obj\Debug\net6.0\02SumOfDigits.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\02SumOfDigits\obj\Debug\net6.0\ref\02SumOfDigits.dll

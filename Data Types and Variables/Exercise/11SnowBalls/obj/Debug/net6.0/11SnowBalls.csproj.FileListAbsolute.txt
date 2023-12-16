@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\03DataTypesEx\11SnowBalls\obj\Debug\net6.0\11SnowBalls.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\11SnowBalls\obj\Debug\net6.0\11SnowBalls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\03DataTypesEx\11SnowBalls\obj\Debug\net6.0\11SnowBalls.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\11SnowBalls\obj\Debug\net6.0\11SnowBalls.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\03DataTypesEx\11SnowBalls\obj\Debug\net6.0\11SnowBalls.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\11SnowBalls\bin\Debug\net6.0\11SnowBalls.exe
+C:\Users\PR1ME\source\repos\03DataTypesEx\11SnowBalls\bin\Debug\net6.0\11SnowBalls.deps.json
+C:\Users\PR1ME\source\repos\03DataTypesEx\11SnowBalls\bin\Debug\net6.0\11SnowBalls.runtimeconfig.json
+C:\Users\PR1ME\source\repos\03DataTypesEx\11SnowBalls\bin\Debug\net6.0\11SnowBalls.dll
+C:\Users\PR1ME\source\repos\03DataTypesEx\11SnowBalls\bin\Debug\net6.0\11SnowBalls.pdb
+C:\Users\PR1ME\source\repos\03DataTypesEx\11SnowBalls\obj\Debug\net6.0\11SnowBalls.dll
+C:\Users\PR1ME\source\repos\03DataTypesEx\11SnowBalls\obj\Debug\net6.0\refint\11SnowBalls.dll
+C:\Users\PR1ME\source\repos\03DataTypesEx\11SnowBalls\obj\Debug\net6.0\11SnowBalls.pdb
+C:\Users\PR1ME\source\repos\03DataTypesEx\11SnowBalls\obj\Debug\net6.0\11SnowBalls.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\11SnowBalls\obj\Debug\net6.0\ref\11SnowBalls.dll

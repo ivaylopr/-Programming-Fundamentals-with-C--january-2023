@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\03DataTypesEx\06TriplesOfLatinLatters\bin\Debug\net6.0\06TriplesOfLatinLatters.exe
+C:\Users\PR1ME\source\repos\03DataTypesEx\06TriplesOfLatinLatters\bin\Debug\net6.0\06TriplesOfLatinLatters.deps.json
+C:\Users\PR1ME\source\repos\03DataTypesEx\06TriplesOfLatinLatters\bin\Debug\net6.0\06TriplesOfLatinLatters.runtimeconfig.json
+C:\Users\PR1ME\source\repos\03DataTypesEx\06TriplesOfLatinLatters\bin\Debug\net6.0\06TriplesOfLatinLatters.dll
+C:\Users\PR1ME\source\repos\03DataTypesEx\06TriplesOfLatinLatters\bin\Debug\net6.0\06TriplesOfLatinLatters.pdb
+C:\Users\PR1ME\source\repos\03DataTypesEx\06TriplesOfLatinLatters\obj\Debug\net6.0\06TriplesOfLatinLatters.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\06TriplesOfLatinLatters\obj\Debug\net6.0\06TriplesOfLatinLatters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\03DataTypesEx\06TriplesOfLatinLatters\obj\Debug\net6.0\06TriplesOfLatinLatters.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\06TriplesOfLatinLatters\obj\Debug\net6.0\06TriplesOfLatinLatters.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\03DataTypesEx\06TriplesOfLatinLatters\obj\Debug\net6.0\06TriplesOfLatinLatters.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\06TriplesOfLatinLatters\obj\Debug\net6.0\06TriplesOfLatinLatters.dll
+C:\Users\PR1ME\source\repos\03DataTypesEx\06TriplesOfLatinLatters\obj\Debug\net6.0\refint\06TriplesOfLatinLatters.dll
+C:\Users\PR1ME\source\repos\03DataTypesEx\06TriplesOfLatinLatters\obj\Debug\net6.0\06TriplesOfLatinLatters.pdb
+C:\Users\PR1ME\source\repos\03DataTypesEx\06TriplesOfLatinLatters\obj\Debug\net6.0\06TriplesOfLatinLatters.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\06TriplesOfLatinLatters\obj\Debug\net6.0\ref\06TriplesOfLatinLatters.dll

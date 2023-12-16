@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\03DataTypesEx\04SumOfCharsASSCII\bin\Debug\net6.0\04SumOfCharsASSCII.exe
+C:\Users\PR1ME\source\repos\03DataTypesEx\04SumOfCharsASSCII\bin\Debug\net6.0\04SumOfCharsASSCII.deps.json
+C:\Users\PR1ME\source\repos\03DataTypesEx\04SumOfCharsASSCII\bin\Debug\net6.0\04SumOfCharsASSCII.runtimeconfig.json
+C:\Users\PR1ME\source\repos\03DataTypesEx\04SumOfCharsASSCII\bin\Debug\net6.0\04SumOfCharsASSCII.dll
+C:\Users\PR1ME\source\repos\03DataTypesEx\04SumOfCharsASSCII\bin\Debug\net6.0\04SumOfCharsASSCII.pdb
+C:\Users\PR1ME\source\repos\03DataTypesEx\04SumOfCharsASSCII\obj\Debug\net6.0\04SumOfCharsASSCII.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\04SumOfCharsASSCII\obj\Debug\net6.0\04SumOfCharsASSCII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\03DataTypesEx\04SumOfCharsASSCII\obj\Debug\net6.0\04SumOfCharsASSCII.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\04SumOfCharsASSCII\obj\Debug\net6.0\04SumOfCharsASSCII.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\03DataTypesEx\04SumOfCharsASSCII\obj\Debug\net6.0\04SumOfCharsASSCII.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\04SumOfCharsASSCII\obj\Debug\net6.0\04SumOfCharsASSCII.dll
+C:\Users\PR1ME\source\repos\03DataTypesEx\04SumOfCharsASSCII\obj\Debug\net6.0\refint\04SumOfCharsASSCII.dll
+C:\Users\PR1ME\source\repos\03DataTypesEx\04SumOfCharsASSCII\obj\Debug\net6.0\04SumOfCharsASSCII.pdb
+C:\Users\PR1ME\source\repos\03DataTypesEx\04SumOfCharsASSCII\obj\Debug\net6.0\04SumOfCharsASSCII.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\03DataTypesEx\04SumOfCharsASSCII\obj\Debug\net6.0\ref\04SumOfCharsASSCII.dll
