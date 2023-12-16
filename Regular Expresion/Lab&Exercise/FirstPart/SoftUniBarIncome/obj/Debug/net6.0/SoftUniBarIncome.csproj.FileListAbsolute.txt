@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\RegEx\SoftUniBarIncome\bin\Debug\net6.0\SoftUniBarIncome.exe
+C:\Users\PR1ME\source\repos\RegEx\SoftUniBarIncome\bin\Debug\net6.0\SoftUniBarIncome.deps.json
+C:\Users\PR1ME\source\repos\RegEx\SoftUniBarIncome\bin\Debug\net6.0\SoftUniBarIncome.runtimeconfig.json
+C:\Users\PR1ME\source\repos\RegEx\SoftUniBarIncome\bin\Debug\net6.0\SoftUniBarIncome.dll
+C:\Users\PR1ME\source\repos\RegEx\SoftUniBarIncome\bin\Debug\net6.0\SoftUniBarIncome.pdb
+C:\Users\PR1ME\source\repos\RegEx\SoftUniBarIncome\obj\Debug\net6.0\SoftUniBarIncome.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\RegEx\SoftUniBarIncome\obj\Debug\net6.0\SoftUniBarIncome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\RegEx\SoftUniBarIncome\obj\Debug\net6.0\SoftUniBarIncome.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\RegEx\SoftUniBarIncome\obj\Debug\net6.0\SoftUniBarIncome.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\RegEx\SoftUniBarIncome\obj\Debug\net6.0\SoftUniBarIncome.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\RegEx\SoftUniBarIncome\obj\Debug\net6.0\SoftUniBarIncome.dll
+C:\Users\PR1ME\source\repos\RegEx\SoftUniBarIncome\obj\Debug\net6.0\refint\SoftUniBarIncome.dll
+C:\Users\PR1ME\source\repos\RegEx\SoftUniBarIncome\obj\Debug\net6.0\SoftUniBarIncome.pdb
+C:\Users\PR1ME\source\repos\RegEx\SoftUniBarIncome\obj\Debug\net6.0\SoftUniBarIncome.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\RegEx\SoftUniBarIncome\obj\Debug\net6.0\ref\SoftUniBarIncome.dll

@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\Regular Expressions\SoftUni Bar Income\obj\Debug\net6.0\SoftUni Bar Income.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\Regular Expressions\SoftUni Bar Income\obj\Debug\net6.0\SoftUni Bar Income.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\Regular Expressions\SoftUni Bar Income\obj\Debug\net6.0\SoftUni Bar Income.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\Regular Expressions\SoftUni Bar Income\obj\Debug\net6.0\SoftUni Bar Income.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\Regular Expressions\SoftUni Bar Income\obj\Debug\net6.0\SoftUni Bar Income.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\Regular Expressions\SoftUni Bar Income\bin\Debug\net6.0\SoftUni Bar Income.exe
+C:\Users\PR1ME\source\repos\Regular Expressions\SoftUni Bar Income\bin\Debug\net6.0\SoftUni Bar Income.deps.json
+C:\Users\PR1ME\source\repos\Regular Expressions\SoftUni Bar Income\bin\Debug\net6.0\SoftUni Bar Income.runtimeconfig.json
+C:\Users\PR1ME\source\repos\Regular Expressions\SoftUni Bar Income\bin\Debug\net6.0\SoftUni Bar Income.dll
+C:\Users\PR1ME\source\repos\Regular Expressions\SoftUni Bar Income\bin\Debug\net6.0\SoftUni Bar Income.pdb
+C:\Users\PR1ME\source\repos\Regular Expressions\SoftUni Bar Income\obj\Debug\net6.0\SoftUni Bar Income.dll
+C:\Users\PR1ME\source\repos\Regular Expressions\SoftUni Bar Income\obj\Debug\net6.0\refint\SoftUni Bar Income.dll
+C:\Users\PR1ME\source\repos\Regular Expressions\SoftUni Bar Income\obj\Debug\net6.0\SoftUni Bar Income.pdb
+C:\Users\PR1ME\source\repos\Regular Expressions\SoftUni Bar Income\obj\Debug\net6.0\SoftUni Bar Income.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\Regular Expressions\SoftUni Bar Income\obj\Debug\net6.0\ref\SoftUni Bar Income.dll

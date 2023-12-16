@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\Regular Expressions\Furnitures\bin\Debug\net6.0\Furnitures.exe
+C:\Users\PR1ME\source\repos\Regular Expressions\Furnitures\bin\Debug\net6.0\Furnitures.deps.json
+C:\Users\PR1ME\source\repos\Regular Expressions\Furnitures\bin\Debug\net6.0\Furnitures.runtimeconfig.json
+C:\Users\PR1ME\source\repos\Regular Expressions\Furnitures\bin\Debug\net6.0\Furnitures.dll
+C:\Users\PR1ME\source\repos\Regular Expressions\Furnitures\bin\Debug\net6.0\Furnitures.pdb
+C:\Users\PR1ME\source\repos\Regular Expressions\Furnitures\obj\Debug\net6.0\Furnitures.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\Regular Expressions\Furnitures\obj\Debug\net6.0\Furnitures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\Regular Expressions\Furnitures\obj\Debug\net6.0\Furnitures.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\Regular Expressions\Furnitures\obj\Debug\net6.0\Furnitures.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\Regular Expressions\Furnitures\obj\Debug\net6.0\Furnitures.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\Regular Expressions\Furnitures\obj\Debug\net6.0\Furnitures.dll
+C:\Users\PR1ME\source\repos\Regular Expressions\Furnitures\obj\Debug\net6.0\refint\Furnitures.dll
+C:\Users\PR1ME\source\repos\Regular Expressions\Furnitures\obj\Debug\net6.0\Furnitures.pdb
+C:\Users\PR1ME\source\repos\Regular Expressions\Furnitures\obj\Debug\net6.0\Furnitures.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\Regular Expressions\Furnitures\obj\Debug\net6.0\ref\Furnitures.dll

@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\RegEx\04Star Enigma\bin\Debug\net6.0\04Star Enigma.exe
+C:\Users\PR1ME\source\repos\RegEx\04Star Enigma\bin\Debug\net6.0\04Star Enigma.deps.json
+C:\Users\PR1ME\source\repos\RegEx\04Star Enigma\bin\Debug\net6.0\04Star Enigma.runtimeconfig.json
+C:\Users\PR1ME\source\repos\RegEx\04Star Enigma\bin\Debug\net6.0\04Star Enigma.dll
+C:\Users\PR1ME\source\repos\RegEx\04Star Enigma\bin\Debug\net6.0\04Star Enigma.pdb
+C:\Users\PR1ME\source\repos\RegEx\04Star Enigma\obj\Debug\net6.0\04Star Enigma.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\RegEx\04Star Enigma\obj\Debug\net6.0\04Star Enigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\RegEx\04Star Enigma\obj\Debug\net6.0\04Star Enigma.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\RegEx\04Star Enigma\obj\Debug\net6.0\04Star Enigma.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\RegEx\04Star Enigma\obj\Debug\net6.0\04Star Enigma.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\RegEx\04Star Enigma\obj\Debug\net6.0\04Star Enigma.dll
+C:\Users\PR1ME\source\repos\RegEx\04Star Enigma\obj\Debug\net6.0\refint\04Star Enigma.dll
+C:\Users\PR1ME\source\repos\RegEx\04Star Enigma\obj\Debug\net6.0\04Star Enigma.pdb
+C:\Users\PR1ME\source\repos\RegEx\04Star Enigma\obj\Debug\net6.0\04Star Enigma.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\RegEx\04Star Enigma\obj\Debug\net6.0\ref\04Star Enigma.dll
