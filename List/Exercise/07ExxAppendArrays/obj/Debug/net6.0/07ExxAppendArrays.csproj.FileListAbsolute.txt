@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\Lists\07ExxAppendArrays\bin\Debug\net6.0\07ExxAppendArrays.exe
+C:\Users\PR1ME\source\repos\Lists\07ExxAppendArrays\bin\Debug\net6.0\07ExxAppendArrays.deps.json
+C:\Users\PR1ME\source\repos\Lists\07ExxAppendArrays\bin\Debug\net6.0\07ExxAppendArrays.runtimeconfig.json
+C:\Users\PR1ME\source\repos\Lists\07ExxAppendArrays\bin\Debug\net6.0\07ExxAppendArrays.dll
+C:\Users\PR1ME\source\repos\Lists\07ExxAppendArrays\bin\Debug\net6.0\07ExxAppendArrays.pdb
+C:\Users\PR1ME\source\repos\Lists\07ExxAppendArrays\obj\Debug\net6.0\07ExxAppendArrays.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\Lists\07ExxAppendArrays\obj\Debug\net6.0\07ExxAppendArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\Lists\07ExxAppendArrays\obj\Debug\net6.0\07ExxAppendArrays.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\Lists\07ExxAppendArrays\obj\Debug\net6.0\07ExxAppendArrays.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\Lists\07ExxAppendArrays\obj\Debug\net6.0\07ExxAppendArrays.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\Lists\07ExxAppendArrays\obj\Debug\net6.0\07ExxAppendArrays.dll
+C:\Users\PR1ME\source\repos\Lists\07ExxAppendArrays\obj\Debug\net6.0\refint\07ExxAppendArrays.dll
+C:\Users\PR1ME\source\repos\Lists\07ExxAppendArrays\obj\Debug\net6.0\07ExxAppendArrays.pdb
+C:\Users\PR1ME\source\repos\Lists\07ExxAppendArrays\obj\Debug\net6.0\07ExxAppendArrays.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\Lists\07ExxAppendArrays\obj\Debug\net6.0\ref\07ExxAppendArrays.dll

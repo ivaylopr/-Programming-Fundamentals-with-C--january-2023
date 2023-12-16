@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\Lists\06ExxCardsGame\bin\Debug\net6.0\06ExxCardsGame.exe
+C:\Users\PR1ME\source\repos\Lists\06ExxCardsGame\bin\Debug\net6.0\06ExxCardsGame.deps.json
+C:\Users\PR1ME\source\repos\Lists\06ExxCardsGame\bin\Debug\net6.0\06ExxCardsGame.runtimeconfig.json
+C:\Users\PR1ME\source\repos\Lists\06ExxCardsGame\bin\Debug\net6.0\06ExxCardsGame.dll
+C:\Users\PR1ME\source\repos\Lists\06ExxCardsGame\bin\Debug\net6.0\06ExxCardsGame.pdb
+C:\Users\PR1ME\source\repos\Lists\06ExxCardsGame\obj\Debug\net6.0\06ExxCardsGame.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\Lists\06ExxCardsGame\obj\Debug\net6.0\06ExxCardsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\Lists\06ExxCardsGame\obj\Debug\net6.0\06ExxCardsGame.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\Lists\06ExxCardsGame\obj\Debug\net6.0\06ExxCardsGame.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\Lists\06ExxCardsGame\obj\Debug\net6.0\06ExxCardsGame.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\Lists\06ExxCardsGame\obj\Debug\net6.0\06ExxCardsGame.dll
+C:\Users\PR1ME\source\repos\Lists\06ExxCardsGame\obj\Debug\net6.0\refint\06ExxCardsGame.dll
+C:\Users\PR1ME\source\repos\Lists\06ExxCardsGame\obj\Debug\net6.0\06ExxCardsGame.pdb
+C:\Users\PR1ME\source\repos\Lists\06ExxCardsGame\obj\Debug\net6.0\06ExxCardsGame.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\Lists\06ExxCardsGame\obj\Debug\net6.0\ref\06ExxCardsGame.dll

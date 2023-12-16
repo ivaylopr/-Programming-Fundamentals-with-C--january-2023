@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\Lists\08Exx\bin\Debug\net6.0\08Exx.exe
+C:\Users\PR1ME\source\repos\Lists\08Exx\bin\Debug\net6.0\08Exx.deps.json
+C:\Users\PR1ME\source\repos\Lists\08Exx\bin\Debug\net6.0\08Exx.runtimeconfig.json
+C:\Users\PR1ME\source\repos\Lists\08Exx\bin\Debug\net6.0\08Exx.dll
+C:\Users\PR1ME\source\repos\Lists\08Exx\bin\Debug\net6.0\08Exx.pdb
+C:\Users\PR1ME\source\repos\Lists\08Exx\obj\Debug\net6.0\08Exx.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\Lists\08Exx\obj\Debug\net6.0\08Exx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\Lists\08Exx\obj\Debug\net6.0\08Exx.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\Lists\08Exx\obj\Debug\net6.0\08Exx.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\Lists\08Exx\obj\Debug\net6.0\08Exx.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\Lists\08Exx\obj\Debug\net6.0\08Exx.dll
+C:\Users\PR1ME\source\repos\Lists\08Exx\obj\Debug\net6.0\refint\08Exx.dll
+C:\Users\PR1ME\source\repos\Lists\08Exx\obj\Debug\net6.0\08Exx.pdb
+C:\Users\PR1ME\source\repos\Lists\08Exx\obj\Debug\net6.0\08Exx.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\Lists\08Exx\obj\Debug\net6.0\ref\08Exx.dll

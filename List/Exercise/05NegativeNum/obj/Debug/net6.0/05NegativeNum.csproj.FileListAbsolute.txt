@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\Lists\05NegativeNum\bin\Debug\net6.0\05NegativeNum.exe
+C:\Users\PR1ME\source\repos\Lists\05NegativeNum\bin\Debug\net6.0\05NegativeNum.deps.json
+C:\Users\PR1ME\source\repos\Lists\05NegativeNum\bin\Debug\net6.0\05NegativeNum.runtimeconfig.json
+C:\Users\PR1ME\source\repos\Lists\05NegativeNum\bin\Debug\net6.0\05NegativeNum.dll
+C:\Users\PR1ME\source\repos\Lists\05NegativeNum\bin\Debug\net6.0\05NegativeNum.pdb
+C:\Users\PR1ME\source\repos\Lists\05NegativeNum\obj\Debug\net6.0\05NegativeNum.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\Lists\05NegativeNum\obj\Debug\net6.0\05NegativeNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\Lists\05NegativeNum\obj\Debug\net6.0\05NegativeNum.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\Lists\05NegativeNum\obj\Debug\net6.0\05NegativeNum.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\Lists\05NegativeNum\obj\Debug\net6.0\05NegativeNum.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\Lists\05NegativeNum\obj\Debug\net6.0\05NegativeNum.dll
+C:\Users\PR1ME\source\repos\Lists\05NegativeNum\obj\Debug\net6.0\refint\05NegativeNum.dll
+C:\Users\PR1ME\source\repos\Lists\05NegativeNum\obj\Debug\net6.0\05NegativeNum.pdb
+C:\Users\PR1ME\source\repos\Lists\05NegativeNum\obj\Debug\net6.0\05NegativeNum.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\Lists\05NegativeNum\obj\Debug\net6.0\ref\05NegativeNum.dll

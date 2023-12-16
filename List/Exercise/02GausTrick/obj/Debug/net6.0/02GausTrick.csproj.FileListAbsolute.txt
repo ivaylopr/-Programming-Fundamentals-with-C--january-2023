@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\Lists\02GausTrick\bin\Debug\net6.0\02GausTrick.exe
+C:\Users\PR1ME\source\repos\Lists\02GausTrick\bin\Debug\net6.0\02GausTrick.deps.json
+C:\Users\PR1ME\source\repos\Lists\02GausTrick\bin\Debug\net6.0\02GausTrick.runtimeconfig.json
+C:\Users\PR1ME\source\repos\Lists\02GausTrick\bin\Debug\net6.0\02GausTrick.dll
+C:\Users\PR1ME\source\repos\Lists\02GausTrick\bin\Debug\net6.0\02GausTrick.pdb
+C:\Users\PR1ME\source\repos\Lists\02GausTrick\obj\Debug\net6.0\02GausTrick.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\Lists\02GausTrick\obj\Debug\net6.0\02GausTrick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\Lists\02GausTrick\obj\Debug\net6.0\02GausTrick.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\Lists\02GausTrick\obj\Debug\net6.0\02GausTrick.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\Lists\02GausTrick\obj\Debug\net6.0\02GausTrick.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\Lists\02GausTrick\obj\Debug\net6.0\02GausTrick.dll
+C:\Users\PR1ME\source\repos\Lists\02GausTrick\obj\Debug\net6.0\refint\02GausTrick.dll
+C:\Users\PR1ME\source\repos\Lists\02GausTrick\obj\Debug\net6.0\02GausTrick.pdb
+C:\Users\PR1ME\source\repos\Lists\02GausTrick\obj\Debug\net6.0\02GausTrick.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\Lists\02GausTrick\obj\Debug\net6.0\ref\02GausTrick.dll

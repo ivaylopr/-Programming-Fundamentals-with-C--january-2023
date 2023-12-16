@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\Lists\06ListManipulator\bin\Debug\net6.0\06ListManipulator.exe
+C:\Users\PR1ME\source\repos\Lists\06ListManipulator\bin\Debug\net6.0\06ListManipulator.deps.json
+C:\Users\PR1ME\source\repos\Lists\06ListManipulator\bin\Debug\net6.0\06ListManipulator.runtimeconfig.json
+C:\Users\PR1ME\source\repos\Lists\06ListManipulator\bin\Debug\net6.0\06ListManipulator.dll
+C:\Users\PR1ME\source\repos\Lists\06ListManipulator\bin\Debug\net6.0\06ListManipulator.pdb
+C:\Users\PR1ME\source\repos\Lists\06ListManipulator\obj\Debug\net6.0\06ListManipulator.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\Lists\06ListManipulator\obj\Debug\net6.0\06ListManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\Lists\06ListManipulator\obj\Debug\net6.0\06ListManipulator.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\Lists\06ListManipulator\obj\Debug\net6.0\06ListManipulator.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\Lists\06ListManipulator\obj\Debug\net6.0\06ListManipulator.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\Lists\06ListManipulator\obj\Debug\net6.0\06ListManipulator.dll
+C:\Users\PR1ME\source\repos\Lists\06ListManipulator\obj\Debug\net6.0\refint\06ListManipulator.dll
+C:\Users\PR1ME\source\repos\Lists\06ListManipulator\obj\Debug\net6.0\06ListManipulator.pdb
+C:\Users\PR1ME\source\repos\Lists\06ListManipulator\obj\Debug\net6.0\06ListManipulator.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\Lists\06ListManipulator\obj\Debug\net6.0\ref\06ListManipulator.dll

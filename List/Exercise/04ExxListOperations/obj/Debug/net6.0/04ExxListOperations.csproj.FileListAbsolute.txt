@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\Lists\04ExxListOperations\obj\Debug\net6.0\04ExxListOperations.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\Lists\04ExxListOperations\obj\Debug\net6.0\04ExxListOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\Lists\04ExxListOperations\obj\Debug\net6.0\04ExxListOperations.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\Lists\04ExxListOperations\obj\Debug\net6.0\04ExxListOperations.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\Lists\04ExxListOperations\obj\Debug\net6.0\04ExxListOperations.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\Lists\04ExxListOperations\bin\Debug\net6.0\04ExxListOperations.exe
+C:\Users\PR1ME\source\repos\Lists\04ExxListOperations\bin\Debug\net6.0\04ExxListOperations.deps.json
+C:\Users\PR1ME\source\repos\Lists\04ExxListOperations\bin\Debug\net6.0\04ExxListOperations.runtimeconfig.json
+C:\Users\PR1ME\source\repos\Lists\04ExxListOperations\bin\Debug\net6.0\04ExxListOperations.dll
+C:\Users\PR1ME\source\repos\Lists\04ExxListOperations\bin\Debug\net6.0\04ExxListOperations.pdb
+C:\Users\PR1ME\source\repos\Lists\04ExxListOperations\obj\Debug\net6.0\04ExxListOperations.dll
+C:\Users\PR1ME\source\repos\Lists\04ExxListOperations\obj\Debug\net6.0\refint\04ExxListOperations.dll
+C:\Users\PR1ME\source\repos\Lists\04ExxListOperations\obj\Debug\net6.0\04ExxListOperations.pdb
+C:\Users\PR1ME\source\repos\Lists\04ExxListOperations\obj\Debug\net6.0\04ExxListOperations.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\Lists\04ExxListOperations\obj\Debug\net6.0\ref\04ExxListOperations.dll

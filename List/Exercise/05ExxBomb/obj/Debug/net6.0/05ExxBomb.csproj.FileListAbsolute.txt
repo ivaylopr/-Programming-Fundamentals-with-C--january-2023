@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\Lists\05ExxBomb\bin\Debug\net6.0\05ExxBomb.exe
+C:\Users\PR1ME\source\repos\Lists\05ExxBomb\bin\Debug\net6.0\05ExxBomb.deps.json
+C:\Users\PR1ME\source\repos\Lists\05ExxBomb\bin\Debug\net6.0\05ExxBomb.runtimeconfig.json
+C:\Users\PR1ME\source\repos\Lists\05ExxBomb\bin\Debug\net6.0\05ExxBomb.dll
+C:\Users\PR1ME\source\repos\Lists\05ExxBomb\bin\Debug\net6.0\05ExxBomb.pdb
+C:\Users\PR1ME\source\repos\Lists\05ExxBomb\obj\Debug\net6.0\05ExxBomb.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\Lists\05ExxBomb\obj\Debug\net6.0\05ExxBomb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\Lists\05ExxBomb\obj\Debug\net6.0\05ExxBomb.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\Lists\05ExxBomb\obj\Debug\net6.0\05ExxBomb.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\Lists\05ExxBomb\obj\Debug\net6.0\05ExxBomb.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\Lists\05ExxBomb\obj\Debug\net6.0\05ExxBomb.dll
+C:\Users\PR1ME\source\repos\Lists\05ExxBomb\obj\Debug\net6.0\refint\05ExxBomb.dll
+C:\Users\PR1ME\source\repos\Lists\05ExxBomb\obj\Debug\net6.0\05ExxBomb.pdb
+C:\Users\PR1ME\source\repos\Lists\05ExxBomb\obj\Debug\net6.0\05ExxBomb.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\Lists\05ExxBomb\obj\Debug\net6.0\ref\05ExxBomb.dll

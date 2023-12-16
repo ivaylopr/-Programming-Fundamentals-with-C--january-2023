@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\Lists\01ExWagons\bin\Debug\net6.0\01ExWagons.exe
+C:\Users\PR1ME\source\repos\Lists\01ExWagons\bin\Debug\net6.0\01ExWagons.deps.json
+C:\Users\PR1ME\source\repos\Lists\01ExWagons\bin\Debug\net6.0\01ExWagons.runtimeconfig.json
+C:\Users\PR1ME\source\repos\Lists\01ExWagons\bin\Debug\net6.0\01ExWagons.dll
+C:\Users\PR1ME\source\repos\Lists\01ExWagons\bin\Debug\net6.0\01ExWagons.pdb
+C:\Users\PR1ME\source\repos\Lists\01ExWagons\obj\Debug\net6.0\01ExWagons.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\Lists\01ExWagons\obj\Debug\net6.0\01ExWagons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\Lists\01ExWagons\obj\Debug\net6.0\01ExWagons.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\Lists\01ExWagons\obj\Debug\net6.0\01ExWagons.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\Lists\01ExWagons\obj\Debug\net6.0\01ExWagons.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\Lists\01ExWagons\obj\Debug\net6.0\01ExWagons.dll
+C:\Users\PR1ME\source\repos\Lists\01ExWagons\obj\Debug\net6.0\refint\01ExWagons.dll
+C:\Users\PR1ME\source\repos\Lists\01ExWagons\obj\Debug\net6.0\01ExWagons.pdb
+C:\Users\PR1ME\source\repos\Lists\01ExWagons\obj\Debug\net6.0\01ExWagons.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\Lists\01ExWagons\obj\Debug\net6.0\ref\01ExWagons.dll

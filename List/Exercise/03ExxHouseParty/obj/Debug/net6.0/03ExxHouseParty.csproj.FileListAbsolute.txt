@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\Lists\03ExxHouseParty\bin\Debug\net6.0\03ExxHouseParty.exe
+C:\Users\PR1ME\source\repos\Lists\03ExxHouseParty\bin\Debug\net6.0\03ExxHouseParty.deps.json
+C:\Users\PR1ME\source\repos\Lists\03ExxHouseParty\bin\Debug\net6.0\03ExxHouseParty.runtimeconfig.json
+C:\Users\PR1ME\source\repos\Lists\03ExxHouseParty\bin\Debug\net6.0\03ExxHouseParty.dll
+C:\Users\PR1ME\source\repos\Lists\03ExxHouseParty\bin\Debug\net6.0\03ExxHouseParty.pdb
+C:\Users\PR1ME\source\repos\Lists\03ExxHouseParty\obj\Debug\net6.0\03ExxHouseParty.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\Lists\03ExxHouseParty\obj\Debug\net6.0\03ExxHouseParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\Lists\03ExxHouseParty\obj\Debug\net6.0\03ExxHouseParty.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\Lists\03ExxHouseParty\obj\Debug\net6.0\03ExxHouseParty.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\Lists\03ExxHouseParty\obj\Debug\net6.0\03ExxHouseParty.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\Lists\03ExxHouseParty\obj\Debug\net6.0\03ExxHouseParty.dll
+C:\Users\PR1ME\source\repos\Lists\03ExxHouseParty\obj\Debug\net6.0\refint\03ExxHouseParty.dll
+C:\Users\PR1ME\source\repos\Lists\03ExxHouseParty\obj\Debug\net6.0\03ExxHouseParty.pdb
+C:\Users\PR1ME\source\repos\Lists\03ExxHouseParty\obj\Debug\net6.0\03ExxHouseParty.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\Lists\03ExxHouseParty\obj\Debug\net6.0\ref\03ExxHouseParty.dll
