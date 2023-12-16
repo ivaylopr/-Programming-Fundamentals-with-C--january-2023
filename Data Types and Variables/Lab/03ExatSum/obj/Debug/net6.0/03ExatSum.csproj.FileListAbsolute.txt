@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\02LabTypes\03ExatSum\bin\Debug\net6.0\03ExatSum.exe
+C:\Users\PR1ME\source\repos\02LabTypes\03ExatSum\bin\Debug\net6.0\03ExatSum.deps.json
+C:\Users\PR1ME\source\repos\02LabTypes\03ExatSum\bin\Debug\net6.0\03ExatSum.runtimeconfig.json
+C:\Users\PR1ME\source\repos\02LabTypes\03ExatSum\bin\Debug\net6.0\03ExatSum.dll
+C:\Users\PR1ME\source\repos\02LabTypes\03ExatSum\bin\Debug\net6.0\03ExatSum.pdb
+C:\Users\PR1ME\source\repos\02LabTypes\03ExatSum\obj\Debug\net6.0\03ExatSum.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\02LabTypes\03ExatSum\obj\Debug\net6.0\03ExatSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\02LabTypes\03ExatSum\obj\Debug\net6.0\03ExatSum.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\02LabTypes\03ExatSum\obj\Debug\net6.0\03ExatSum.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\02LabTypes\03ExatSum\obj\Debug\net6.0\03ExatSum.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\02LabTypes\03ExatSum\obj\Debug\net6.0\03ExatSum.dll
+C:\Users\PR1ME\source\repos\02LabTypes\03ExatSum\obj\Debug\net6.0\refint\03ExatSum.dll
+C:\Users\PR1ME\source\repos\02LabTypes\03ExatSum\obj\Debug\net6.0\03ExatSum.pdb
+C:\Users\PR1ME\source\repos\02LabTypes\03ExatSum\obj\Debug\net6.0\03ExatSum.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\02LabTypes\03ExatSum\obj\Debug\net6.0\ref\03ExatSum.dll

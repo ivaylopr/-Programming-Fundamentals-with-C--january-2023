@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\02LabTypes\12Refactory\obj\Debug\net6.0\12Refactory.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\02LabTypes\12Refactory\obj\Debug\net6.0\12Refactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\02LabTypes\12Refactory\obj\Debug\net6.0\12Refactory.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\02LabTypes\12Refactory\obj\Debug\net6.0\12Refactory.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\02LabTypes\12Refactory\obj\Debug\net6.0\12Refactory.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\02LabTypes\12Refactory\bin\Debug\net6.0\12Refactory.exe
+C:\Users\PR1ME\source\repos\02LabTypes\12Refactory\bin\Debug\net6.0\12Refactory.deps.json
+C:\Users\PR1ME\source\repos\02LabTypes\12Refactory\bin\Debug\net6.0\12Refactory.runtimeconfig.json
+C:\Users\PR1ME\source\repos\02LabTypes\12Refactory\bin\Debug\net6.0\12Refactory.dll
+C:\Users\PR1ME\source\repos\02LabTypes\12Refactory\bin\Debug\net6.0\12Refactory.pdb
+C:\Users\PR1ME\source\repos\02LabTypes\12Refactory\obj\Debug\net6.0\12Refactory.dll
+C:\Users\PR1ME\source\repos\02LabTypes\12Refactory\obj\Debug\net6.0\refint\12Refactory.dll
+C:\Users\PR1ME\source\repos\02LabTypes\12Refactory\obj\Debug\net6.0\12Refactory.pdb
+C:\Users\PR1ME\source\repos\02LabTypes\12Refactory\obj\Debug\net6.0\12Refactory.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\02LabTypes\12Refactory\obj\Debug\net6.0\ref\12Refactory.dll

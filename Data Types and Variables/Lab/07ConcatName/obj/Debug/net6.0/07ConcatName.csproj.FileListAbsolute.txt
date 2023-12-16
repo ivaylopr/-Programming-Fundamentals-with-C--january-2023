@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\02LabTypes\07ConcatName\bin\Debug\net6.0\07ConcatName.exe
+C:\Users\PR1ME\source\repos\02LabTypes\07ConcatName\bin\Debug\net6.0\07ConcatName.deps.json
+C:\Users\PR1ME\source\repos\02LabTypes\07ConcatName\bin\Debug\net6.0\07ConcatName.runtimeconfig.json
+C:\Users\PR1ME\source\repos\02LabTypes\07ConcatName\bin\Debug\net6.0\07ConcatName.dll
+C:\Users\PR1ME\source\repos\02LabTypes\07ConcatName\bin\Debug\net6.0\07ConcatName.pdb
+C:\Users\PR1ME\source\repos\02LabTypes\07ConcatName\obj\Debug\net6.0\07ConcatName.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\02LabTypes\07ConcatName\obj\Debug\net6.0\07ConcatName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\02LabTypes\07ConcatName\obj\Debug\net6.0\07ConcatName.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\02LabTypes\07ConcatName\obj\Debug\net6.0\07ConcatName.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\02LabTypes\07ConcatName\obj\Debug\net6.0\07ConcatName.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\02LabTypes\07ConcatName\obj\Debug\net6.0\07ConcatName.dll
+C:\Users\PR1ME\source\repos\02LabTypes\07ConcatName\obj\Debug\net6.0\refint\07ConcatName.dll
+C:\Users\PR1ME\source\repos\02LabTypes\07ConcatName\obj\Debug\net6.0\07ConcatName.pdb
+C:\Users\PR1ME\source\repos\02LabTypes\07ConcatName\obj\Debug\net6.0\07ConcatName.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\02LabTypes\07ConcatName\obj\Debug\net6.0\ref\07ConcatName.dll

@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\02LabTypes\02PaundToDollar\bin\Debug\net6.0\02PaundToDollar.exe
+C:\Users\PR1ME\source\repos\02LabTypes\02PaundToDollar\bin\Debug\net6.0\02PaundToDollar.deps.json
+C:\Users\PR1ME\source\repos\02LabTypes\02PaundToDollar\bin\Debug\net6.0\02PaundToDollar.runtimeconfig.json
+C:\Users\PR1ME\source\repos\02LabTypes\02PaundToDollar\bin\Debug\net6.0\02PaundToDollar.dll
+C:\Users\PR1ME\source\repos\02LabTypes\02PaundToDollar\bin\Debug\net6.0\02PaundToDollar.pdb
+C:\Users\PR1ME\source\repos\02LabTypes\02PaundToDollar\obj\Debug\net6.0\02PaundToDollar.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\02LabTypes\02PaundToDollar\obj\Debug\net6.0\02PaundToDollar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\02LabTypes\02PaundToDollar\obj\Debug\net6.0\02PaundToDollar.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\02LabTypes\02PaundToDollar\obj\Debug\net6.0\02PaundToDollar.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\02LabTypes\02PaundToDollar\obj\Debug\net6.0\02PaundToDollar.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\02LabTypes\02PaundToDollar\obj\Debug\net6.0\02PaundToDollar.dll
+C:\Users\PR1ME\source\repos\02LabTypes\02PaundToDollar\obj\Debug\net6.0\refint\02PaundToDollar.dll
+C:\Users\PR1ME\source\repos\02LabTypes\02PaundToDollar\obj\Debug\net6.0\02PaundToDollar.pdb
+C:\Users\PR1ME\source\repos\02LabTypes\02PaundToDollar\obj\Debug\net6.0\02PaundToDollar.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\02LabTypes\02PaundToDollar\obj\Debug\net6.0\ref\02PaundToDollar.dll

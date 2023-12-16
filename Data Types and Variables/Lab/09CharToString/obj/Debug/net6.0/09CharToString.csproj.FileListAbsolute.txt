@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\02LabTypes\09CharToString\bin\Debug\net6.0\09CharToString.exe
+C:\Users\PR1ME\source\repos\02LabTypes\09CharToString\bin\Debug\net6.0\09CharToString.deps.json
+C:\Users\PR1ME\source\repos\02LabTypes\09CharToString\bin\Debug\net6.0\09CharToString.runtimeconfig.json
+C:\Users\PR1ME\source\repos\02LabTypes\09CharToString\bin\Debug\net6.0\09CharToString.dll
+C:\Users\PR1ME\source\repos\02LabTypes\09CharToString\bin\Debug\net6.0\09CharToString.pdb
+C:\Users\PR1ME\source\repos\02LabTypes\09CharToString\obj\Debug\net6.0\09CharToString.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\02LabTypes\09CharToString\obj\Debug\net6.0\09CharToString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\02LabTypes\09CharToString\obj\Debug\net6.0\09CharToString.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\02LabTypes\09CharToString\obj\Debug\net6.0\09CharToString.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\02LabTypes\09CharToString\obj\Debug\net6.0\09CharToString.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\02LabTypes\09CharToString\obj\Debug\net6.0\09CharToString.dll
+C:\Users\PR1ME\source\repos\02LabTypes\09CharToString\obj\Debug\net6.0\refint\09CharToString.dll
+C:\Users\PR1ME\source\repos\02LabTypes\09CharToString\obj\Debug\net6.0\09CharToString.pdb
+C:\Users\PR1ME\source\repos\02LabTypes\09CharToString\obj\Debug\net6.0\09CharToString.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\02LabTypes\09CharToString\obj\Debug\net6.0\ref\09CharToString.dll

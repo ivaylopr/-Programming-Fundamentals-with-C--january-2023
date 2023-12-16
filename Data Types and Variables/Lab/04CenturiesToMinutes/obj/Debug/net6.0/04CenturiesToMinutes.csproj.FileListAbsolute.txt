@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\02LabTypes\04CenturiesToMinutes\bin\Debug\net6.0\04CenturiesToMinutes.exe
+C:\Users\PR1ME\source\repos\02LabTypes\04CenturiesToMinutes\bin\Debug\net6.0\04CenturiesToMinutes.deps.json
+C:\Users\PR1ME\source\repos\02LabTypes\04CenturiesToMinutes\bin\Debug\net6.0\04CenturiesToMinutes.runtimeconfig.json
+C:\Users\PR1ME\source\repos\02LabTypes\04CenturiesToMinutes\bin\Debug\net6.0\04CenturiesToMinutes.dll
+C:\Users\PR1ME\source\repos\02LabTypes\04CenturiesToMinutes\bin\Debug\net6.0\04CenturiesToMinutes.pdb
+C:\Users\PR1ME\source\repos\02LabTypes\04CenturiesToMinutes\obj\Debug\net6.0\04CenturiesToMinutes.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\02LabTypes\04CenturiesToMinutes\obj\Debug\net6.0\04CenturiesToMinutes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\02LabTypes\04CenturiesToMinutes\obj\Debug\net6.0\04CenturiesToMinutes.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\02LabTypes\04CenturiesToMinutes\obj\Debug\net6.0\04CenturiesToMinutes.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\02LabTypes\04CenturiesToMinutes\obj\Debug\net6.0\04CenturiesToMinutes.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\02LabTypes\04CenturiesToMinutes\obj\Debug\net6.0\04CenturiesToMinutes.dll
+C:\Users\PR1ME\source\repos\02LabTypes\04CenturiesToMinutes\obj\Debug\net6.0\refint\04CenturiesToMinutes.dll
+C:\Users\PR1ME\source\repos\02LabTypes\04CenturiesToMinutes\obj\Debug\net6.0\04CenturiesToMinutes.pdb
+C:\Users\PR1ME\source\repos\02LabTypes\04CenturiesToMinutes\obj\Debug\net6.0\04CenturiesToMinutes.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\02LabTypes\04CenturiesToMinutes\obj\Debug\net6.0\ref\04CenturiesToMinutes.dll

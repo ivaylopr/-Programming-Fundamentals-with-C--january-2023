@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\02LabTypes\10LowerOrUpper\bin\Debug\net6.0\10LowerOrUpper.exe
+C:\Users\PR1ME\source\repos\02LabTypes\10LowerOrUpper\bin\Debug\net6.0\10LowerOrUpper.deps.json
+C:\Users\PR1ME\source\repos\02LabTypes\10LowerOrUpper\bin\Debug\net6.0\10LowerOrUpper.runtimeconfig.json
+C:\Users\PR1ME\source\repos\02LabTypes\10LowerOrUpper\bin\Debug\net6.0\10LowerOrUpper.dll
+C:\Users\PR1ME\source\repos\02LabTypes\10LowerOrUpper\bin\Debug\net6.0\10LowerOrUpper.pdb
+C:\Users\PR1ME\source\repos\02LabTypes\10LowerOrUpper\obj\Debug\net6.0\10LowerOrUpper.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\02LabTypes\10LowerOrUpper\obj\Debug\net6.0\10LowerOrUpper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\02LabTypes\10LowerOrUpper\obj\Debug\net6.0\10LowerOrUpper.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\02LabTypes\10LowerOrUpper\obj\Debug\net6.0\10LowerOrUpper.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\02LabTypes\10LowerOrUpper\obj\Debug\net6.0\10LowerOrUpper.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\02LabTypes\10LowerOrUpper\obj\Debug\net6.0\10LowerOrUpper.dll
+C:\Users\PR1ME\source\repos\02LabTypes\10LowerOrUpper\obj\Debug\net6.0\refint\10LowerOrUpper.dll
+C:\Users\PR1ME\source\repos\02LabTypes\10LowerOrUpper\obj\Debug\net6.0\10LowerOrUpper.pdb
+C:\Users\PR1ME\source\repos\02LabTypes\10LowerOrUpper\obj\Debug\net6.0\10LowerOrUpper.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\02LabTypes\10LowerOrUpper\obj\Debug\net6.0\ref\10LowerOrUpper.dll

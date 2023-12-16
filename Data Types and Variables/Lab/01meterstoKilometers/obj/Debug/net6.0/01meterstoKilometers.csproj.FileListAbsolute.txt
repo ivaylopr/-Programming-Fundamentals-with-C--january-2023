@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\02LabTypes\01meterstoKilometers\bin\Debug\net6.0\01meterstoKilometers.exe
+C:\Users\PR1ME\source\repos\02LabTypes\01meterstoKilometers\bin\Debug\net6.0\01meterstoKilometers.deps.json
+C:\Users\PR1ME\source\repos\02LabTypes\01meterstoKilometers\bin\Debug\net6.0\01meterstoKilometers.runtimeconfig.json
+C:\Users\PR1ME\source\repos\02LabTypes\01meterstoKilometers\bin\Debug\net6.0\01meterstoKilometers.dll
+C:\Users\PR1ME\source\repos\02LabTypes\01meterstoKilometers\bin\Debug\net6.0\01meterstoKilometers.pdb
+C:\Users\PR1ME\source\repos\02LabTypes\01meterstoKilometers\obj\Debug\net6.0\01meterstoKilometers.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\02LabTypes\01meterstoKilometers\obj\Debug\net6.0\01meterstoKilometers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\02LabTypes\01meterstoKilometers\obj\Debug\net6.0\01meterstoKilometers.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\02LabTypes\01meterstoKilometers\obj\Debug\net6.0\01meterstoKilometers.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\02LabTypes\01meterstoKilometers\obj\Debug\net6.0\01meterstoKilometers.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\02LabTypes\01meterstoKilometers\obj\Debug\net6.0\01meterstoKilometers.dll
+C:\Users\PR1ME\source\repos\02LabTypes\01meterstoKilometers\obj\Debug\net6.0\refint\01meterstoKilometers.dll
+C:\Users\PR1ME\source\repos\02LabTypes\01meterstoKilometers\obj\Debug\net6.0\01meterstoKilometers.pdb
+C:\Users\PR1ME\source\repos\02LabTypes\01meterstoKilometers\obj\Debug\net6.0\01meterstoKilometers.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\02LabTypes\01meterstoKilometers\obj\Debug\net6.0\ref\01meterstoKilometers.dll

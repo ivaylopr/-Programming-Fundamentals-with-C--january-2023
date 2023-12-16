@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\02LabTypes\06ReversedChars\obj\Debug\net6.0\06ReversedChars.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\02LabTypes\06ReversedChars\obj\Debug\net6.0\06ReversedChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\02LabTypes\06ReversedChars\obj\Debug\net6.0\06ReversedChars.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\02LabTypes\06ReversedChars\obj\Debug\net6.0\06ReversedChars.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\02LabTypes\06ReversedChars\obj\Debug\net6.0\06ReversedChars.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\02LabTypes\06ReversedChars\bin\Debug\net6.0\06ReversedChars.exe
+C:\Users\PR1ME\source\repos\02LabTypes\06ReversedChars\bin\Debug\net6.0\06ReversedChars.deps.json
+C:\Users\PR1ME\source\repos\02LabTypes\06ReversedChars\bin\Debug\net6.0\06ReversedChars.runtimeconfig.json
+C:\Users\PR1ME\source\repos\02LabTypes\06ReversedChars\bin\Debug\net6.0\06ReversedChars.dll
+C:\Users\PR1ME\source\repos\02LabTypes\06ReversedChars\bin\Debug\net6.0\06ReversedChars.pdb
+C:\Users\PR1ME\source\repos\02LabTypes\06ReversedChars\obj\Debug\net6.0\06ReversedChars.dll
+C:\Users\PR1ME\source\repos\02LabTypes\06ReversedChars\obj\Debug\net6.0\refint\06ReversedChars.dll
+C:\Users\PR1ME\source\repos\02LabTypes\06ReversedChars\obj\Debug\net6.0\06ReversedChars.pdb
+C:\Users\PR1ME\source\repos\02LabTypes\06ReversedChars\obj\Debug\net6.0\06ReversedChars.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\02LabTypes\06ReversedChars\obj\Debug\net6.0\ref\06ReversedChars.dll

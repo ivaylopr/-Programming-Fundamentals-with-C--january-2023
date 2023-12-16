@@ -1,0 +1,10 @@
+﻿double lenght;
+double widht;
+double volume;
+double result;
+Console.Write("Length: Width: Height: ");
+lenght = double.Parse(Console.ReadLine());
+widht = double.Parse(Console.ReadLine());
+volume = double.Parse(Console.ReadLine());
+result = (lenght * widht*volume)/3 ;
+Console.WriteLine($"Pyramid Volume: {result:f2}");
