@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\fundamentals 01ex\08DividetBy3\bin\Debug\net6.0\08DividetBy3.exe
+C:\Users\PR1ME\source\repos\fundamentals 01ex\08DividetBy3\bin\Debug\net6.0\08DividetBy3.deps.json
+C:\Users\PR1ME\source\repos\fundamentals 01ex\08DividetBy3\bin\Debug\net6.0\08DividetBy3.runtimeconfig.json
+C:\Users\PR1ME\source\repos\fundamentals 01ex\08DividetBy3\bin\Debug\net6.0\08DividetBy3.dll
+C:\Users\PR1ME\source\repos\fundamentals 01ex\08DividetBy3\bin\Debug\net6.0\08DividetBy3.pdb
+C:\Users\PR1ME\source\repos\fundamentals 01ex\08DividetBy3\obj\Debug\net6.0\08DividetBy3.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\fundamentals 01ex\08DividetBy3\obj\Debug\net6.0\08DividetBy3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\fundamentals 01ex\08DividetBy3\obj\Debug\net6.0\08DividetBy3.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\fundamentals 01ex\08DividetBy3\obj\Debug\net6.0\08DividetBy3.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\fundamentals 01ex\08DividetBy3\obj\Debug\net6.0\08DividetBy3.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\fundamentals 01ex\08DividetBy3\obj\Debug\net6.0\08DividetBy3.dll
+C:\Users\PR1ME\source\repos\fundamentals 01ex\08DividetBy3\obj\Debug\net6.0\refint\08DividetBy3.dll
+C:\Users\PR1ME\source\repos\fundamentals 01ex\08DividetBy3\obj\Debug\net6.0\08DividetBy3.pdb
+C:\Users\PR1ME\source\repos\fundamentals 01ex\08DividetBy3\obj\Debug\net6.0\08DividetBy3.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\fundamentals 01ex\08DividetBy3\obj\Debug\net6.0\ref\08DividetBy3.dll

@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\fundamentals 01ex\07TheatrePromotion\bin\Debug\net6.0\07TheatrePromotion.exe
+C:\Users\PR1ME\source\repos\fundamentals 01ex\07TheatrePromotion\bin\Debug\net6.0\07TheatrePromotion.deps.json
+C:\Users\PR1ME\source\repos\fundamentals 01ex\07TheatrePromotion\bin\Debug\net6.0\07TheatrePromotion.runtimeconfig.json
+C:\Users\PR1ME\source\repos\fundamentals 01ex\07TheatrePromotion\bin\Debug\net6.0\07TheatrePromotion.dll
+C:\Users\PR1ME\source\repos\fundamentals 01ex\07TheatrePromotion\bin\Debug\net6.0\07TheatrePromotion.pdb
+C:\Users\PR1ME\source\repos\fundamentals 01ex\07TheatrePromotion\obj\Debug\net6.0\07TheatrePromotion.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\fundamentals 01ex\07TheatrePromotion\obj\Debug\net6.0\07TheatrePromotion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\fundamentals 01ex\07TheatrePromotion\obj\Debug\net6.0\07TheatrePromotion.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\fundamentals 01ex\07TheatrePromotion\obj\Debug\net6.0\07TheatrePromotion.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\fundamentals 01ex\07TheatrePromotion\obj\Debug\net6.0\07TheatrePromotion.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\fundamentals 01ex\07TheatrePromotion\obj\Debug\net6.0\07TheatrePromotion.dll
+C:\Users\PR1ME\source\repos\fundamentals 01ex\07TheatrePromotion\obj\Debug\net6.0\refint\07TheatrePromotion.dll
+C:\Users\PR1ME\source\repos\fundamentals 01ex\07TheatrePromotion\obj\Debug\net6.0\07TheatrePromotion.pdb
+C:\Users\PR1ME\source\repos\fundamentals 01ex\07TheatrePromotion\obj\Debug\net6.0\07TheatrePromotion.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\fundamentals 01ex\07TheatrePromotion\obj\Debug\net6.0\ref\07TheatrePromotion.dll

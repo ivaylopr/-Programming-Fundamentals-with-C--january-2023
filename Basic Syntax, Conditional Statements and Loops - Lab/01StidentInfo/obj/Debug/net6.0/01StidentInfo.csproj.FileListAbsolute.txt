@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\fundamentals 01ex\01StidentInfo\bin\Debug\net6.0\01StidentInfo.exe
+C:\Users\PR1ME\source\repos\fundamentals 01ex\01StidentInfo\bin\Debug\net6.0\01StidentInfo.deps.json
+C:\Users\PR1ME\source\repos\fundamentals 01ex\01StidentInfo\bin\Debug\net6.0\01StidentInfo.runtimeconfig.json
+C:\Users\PR1ME\source\repos\fundamentals 01ex\01StidentInfo\bin\Debug\net6.0\01StidentInfo.dll
+C:\Users\PR1ME\source\repos\fundamentals 01ex\01StidentInfo\bin\Debug\net6.0\01StidentInfo.pdb
+C:\Users\PR1ME\source\repos\fundamentals 01ex\01StidentInfo\obj\Debug\net6.0\01StidentInfo.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\fundamentals 01ex\01StidentInfo\obj\Debug\net6.0\01StidentInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\fundamentals 01ex\01StidentInfo\obj\Debug\net6.0\01StidentInfo.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\fundamentals 01ex\01StidentInfo\obj\Debug\net6.0\01StidentInfo.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\fundamentals 01ex\01StidentInfo\obj\Debug\net6.0\01StidentInfo.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\fundamentals 01ex\01StidentInfo\obj\Debug\net6.0\01StidentInfo.dll
+C:\Users\PR1ME\source\repos\fundamentals 01ex\01StidentInfo\obj\Debug\net6.0\refint\01StidentInfo.dll
+C:\Users\PR1ME\source\repos\fundamentals 01ex\01StidentInfo\obj\Debug\net6.0\01StidentInfo.pdb
+C:\Users\PR1ME\source\repos\fundamentals 01ex\01StidentInfo\obj\Debug\net6.0\01StidentInfo.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\fundamentals 01ex\01StidentInfo\obj\Debug\net6.0\ref\01StidentInfo.dll

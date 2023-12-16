@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\fundamentals 01ex\06ForeignLanguages\bin\Debug\net6.0\06ForeignLanguages.exe
+C:\Users\PR1ME\source\repos\fundamentals 01ex\06ForeignLanguages\bin\Debug\net6.0\06ForeignLanguages.deps.json
+C:\Users\PR1ME\source\repos\fundamentals 01ex\06ForeignLanguages\bin\Debug\net6.0\06ForeignLanguages.runtimeconfig.json
+C:\Users\PR1ME\source\repos\fundamentals 01ex\06ForeignLanguages\bin\Debug\net6.0\06ForeignLanguages.dll
+C:\Users\PR1ME\source\repos\fundamentals 01ex\06ForeignLanguages\bin\Debug\net6.0\06ForeignLanguages.pdb
+C:\Users\PR1ME\source\repos\fundamentals 01ex\06ForeignLanguages\obj\Debug\net6.0\06ForeignLanguages.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\fundamentals 01ex\06ForeignLanguages\obj\Debug\net6.0\06ForeignLanguages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\fundamentals 01ex\06ForeignLanguages\obj\Debug\net6.0\06ForeignLanguages.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\fundamentals 01ex\06ForeignLanguages\obj\Debug\net6.0\06ForeignLanguages.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\fundamentals 01ex\06ForeignLanguages\obj\Debug\net6.0\06ForeignLanguages.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\fundamentals 01ex\06ForeignLanguages\obj\Debug\net6.0\06ForeignLanguages.dll
+C:\Users\PR1ME\source\repos\fundamentals 01ex\06ForeignLanguages\obj\Debug\net6.0\refint\06ForeignLanguages.dll
+C:\Users\PR1ME\source\repos\fundamentals 01ex\06ForeignLanguages\obj\Debug\net6.0\06ForeignLanguages.pdb
+C:\Users\PR1ME\source\repos\fundamentals 01ex\06ForeignLanguages\obj\Debug\net6.0\06ForeignLanguages.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\fundamentals 01ex\06ForeignLanguages\obj\Debug\net6.0\ref\06ForeignLanguages.dll

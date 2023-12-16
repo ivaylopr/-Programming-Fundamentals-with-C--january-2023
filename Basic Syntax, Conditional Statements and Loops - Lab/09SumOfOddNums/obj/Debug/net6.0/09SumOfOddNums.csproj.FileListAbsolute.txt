@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\fundamentals 01ex\09SumOfOddNums\bin\Debug\net6.0\09SumOfOddNums.exe
+C:\Users\PR1ME\source\repos\fundamentals 01ex\09SumOfOddNums\bin\Debug\net6.0\09SumOfOddNums.deps.json
+C:\Users\PR1ME\source\repos\fundamentals 01ex\09SumOfOddNums\bin\Debug\net6.0\09SumOfOddNums.runtimeconfig.json
+C:\Users\PR1ME\source\repos\fundamentals 01ex\09SumOfOddNums\bin\Debug\net6.0\09SumOfOddNums.dll
+C:\Users\PR1ME\source\repos\fundamentals 01ex\09SumOfOddNums\bin\Debug\net6.0\09SumOfOddNums.pdb
+C:\Users\PR1ME\source\repos\fundamentals 01ex\09SumOfOddNums\obj\Debug\net6.0\09SumOfOddNums.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\fundamentals 01ex\09SumOfOddNums\obj\Debug\net6.0\09SumOfOddNums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\fundamentals 01ex\09SumOfOddNums\obj\Debug\net6.0\09SumOfOddNums.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\fundamentals 01ex\09SumOfOddNums\obj\Debug\net6.0\09SumOfOddNums.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\fundamentals 01ex\09SumOfOddNums\obj\Debug\net6.0\09SumOfOddNums.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\fundamentals 01ex\09SumOfOddNums\obj\Debug\net6.0\09SumOfOddNums.dll
+C:\Users\PR1ME\source\repos\fundamentals 01ex\09SumOfOddNums\obj\Debug\net6.0\refint\09SumOfOddNums.dll
+C:\Users\PR1ME\source\repos\fundamentals 01ex\09SumOfOddNums\obj\Debug\net6.0\09SumOfOddNums.pdb
+C:\Users\PR1ME\source\repos\fundamentals 01ex\09SumOfOddNums\obj\Debug\net6.0\09SumOfOddNums.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\fundamentals 01ex\09SumOfOddNums\obj\Debug\net6.0\ref\09SumOfOddNums.dll

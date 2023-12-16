@@ -1,0 +1,15 @@
+C:\Users\PR1ME\source\repos\fundamentals 01ex\12EvenNum\bin\Debug\net6.0\12EvenNum.exe
+C:\Users\PR1ME\source\repos\fundamentals 01ex\12EvenNum\bin\Debug\net6.0\12EvenNum.deps.json
+C:\Users\PR1ME\source\repos\fundamentals 01ex\12EvenNum\bin\Debug\net6.0\12EvenNum.runtimeconfig.json
+C:\Users\PR1ME\source\repos\fundamentals 01ex\12EvenNum\bin\Debug\net6.0\12EvenNum.dll
+C:\Users\PR1ME\source\repos\fundamentals 01ex\12EvenNum\bin\Debug\net6.0\12EvenNum.pdb
+C:\Users\PR1ME\source\repos\fundamentals 01ex\12EvenNum\obj\Debug\net6.0\12EvenNum.csproj.AssemblyReference.cache
+C:\Users\PR1ME\source\repos\fundamentals 01ex\12EvenNum\obj\Debug\net6.0\12EvenNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PR1ME\source\repos\fundamentals 01ex\12EvenNum\obj\Debug\net6.0\12EvenNum.AssemblyInfoInputs.cache
+C:\Users\PR1ME\source\repos\fundamentals 01ex\12EvenNum\obj\Debug\net6.0\12EvenNum.AssemblyInfo.cs
+C:\Users\PR1ME\source\repos\fundamentals 01ex\12EvenNum\obj\Debug\net6.0\12EvenNum.csproj.CoreCompileInputs.cache
+C:\Users\PR1ME\source\repos\fundamentals 01ex\12EvenNum\obj\Debug\net6.0\12EvenNum.dll
+C:\Users\PR1ME\source\repos\fundamentals 01ex\12EvenNum\obj\Debug\net6.0\refint\12EvenNum.dll
+C:\Users\PR1ME\source\repos\fundamentals 01ex\12EvenNum\obj\Debug\net6.0\12EvenNum.pdb
+C:\Users\PR1ME\source\repos\fundamentals 01ex\12EvenNum\obj\Debug\net6.0\12EvenNum.genruntimeconfig.cache
+C:\Users\PR1ME\source\repos\fundamentals 01ex\12EvenNum\obj\Debug\net6.0\ref\12EvenNum.dll
